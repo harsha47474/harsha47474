@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm N. Harshavardan
 
-<!--
-**harsha47474/harsha47474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who enjoys building projects, learning new technologies, and solving real-world problems through code.
 
-Here are some ideas to get you started:
+* 💻 Interested in: Backend Systems, Secure Web Applications, and Cloud Infrastructure
+* 🌱 Currently learning: DevOps and Cloud Infrastructure
+* 🚀 Working on: Full-Stack Job Portal Application
+* ⚡ Fun fact: I enjoy turning ideas into real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+`React` `Next.js` `MongoDB` `TypeScript` `Framer Motion` `Express.js` `Node.js`
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/harshavardan-n-b86754327/
+* Email: [harsha1127achu@gmail.com](mailto:harsha1127achu@gmail.com)
+
+*Always learning, always building.*
