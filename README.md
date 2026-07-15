@@ -3,13 +3,13 @@
 I'm a passionate developer who enjoys building projects, learning new technologies, and solving real-world problems through code.
 
 * 💻 Interested in: Backend Systems, Secure Web Applications, and Cloud Infrastructure
-* 🌱 Currently learning: DevOps and Cloud Infrastructure
-* 🚀 Working on: Full-Stack Job Portal Application
-* ⚡ Fun fact: I enjoy turning ideas into real-world applications
+* 🌱 Currently learning: Networking and ML applications
+* 🚀 Working on: Full-Stack AI GYM PLANNER website
+* ⚡ Fun fact: I enjoy doing Data Structures Algorithm Problems
 
 ## 🛠️ Tech Stack
 
-`React` `Next.js` `MongoDB` `TypeScript` `Framer Motion` `Express.js` `Node.js`
+`React` `Next.js` `MongoDB` `TypeScript` `Express.js` `Node.js` `MySQL` `Drizzle ORM`
 
 ## 🌐 Connect With Me
 
