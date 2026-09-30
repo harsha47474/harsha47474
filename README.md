@@ -4,7 +4,7 @@ I'm a passionate developer who enjoys building projects, learning new technologi
 
 * 💻 Interested in: Backend Systems, Secure Web Applications, and Cloud Infrastructure
 * 🌱 Currently learning: Networking and JAVA Devlopment
-* 🚀 Working on: Full-Stack AI GYM PLANNER website
+* 🚀 Working on: AI-Interview-Platform (Almost Done)
 * ⚡ Fun fact: I enjoy doing Data Structures Algorithm Problems
 
 ## 🛠️ Tech Stack
